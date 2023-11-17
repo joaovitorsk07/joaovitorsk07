@@ -13,5 +13,4 @@
 <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcRwPxNvnChMJFLngcKGqLPKgrBZzRswNPNdsZSLvbcCHhMCljRgnWnVtrLRCfNXgJCzlFBjz" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
 </div>
 
-![snake gif](https://github.com/joaovitorsk07/joaovitorsk07/blob/output/github-contribution-grid-snake.svg)
 
