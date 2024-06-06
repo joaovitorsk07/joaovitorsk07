@@ -13,7 +13,7 @@
                                                                          
 </div>
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="joao-vitor-klolm" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/joao-vitor-klolm?trk=profile-badge">João Vitor</a></div>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="joao-vitor-klolm" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/joao-vitor-klolm?trk=profile-badge"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></div>
               
               
 
