@@ -9,7 +9,9 @@
 <div>
 <a href="https://instagram.com/joaov07__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 <a href="https://wa.me/qr/7HZ7ARV7USP4H1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">  
-<a href="mailto:joaovitorklolm85@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">                                                            
+<a href="mailto:joaovitorklolm85@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joão-vitor-7310992a0" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/jo%C3%A3o-vitor-7310992a0?trk=profile-badge">João Vitor</a></div>
+                                                                         
 </div>
 
 
