@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitorsk07&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorsk07&hide_progress=true&theme=merko)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaovitorsk07&bg_color=000000&color=008000&line=7FFF00&point=6B8E23&area=true&hide_border=true)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaovitorsk07&bg_color=000000&color=008000&line=7FFF00&point=6B8E23&area=true&hide_border=true)
 
 <div>
 <a href="https://instagram.com/joaov07__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
@@ -12,6 +12,9 @@
 <a href="mailto:joaovitorklolm85@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">  
                                                                          
 </div>
+
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joão-vitor-7310992a0" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/jo%C3%A3o-vitor-7310992a0?trk=profile-badge">João Vitor</a></div>
+              
 
 
 
