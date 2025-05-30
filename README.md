@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitorsk07&show_icons=true&theme=shadow_red)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorsk07&hide_progress=true&theme=shadow_red)
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaovitorsk07&bg_color=FF0000line=FFFFFF&point=FF0000&area=true&hide_border=true)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaovitorsk07&bg_color=FF0000line=#F0F8FF&point=FF0000&area=true&hide_border=true)
 
 <div>
 <a href="https://instagram.com/joaov07__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
