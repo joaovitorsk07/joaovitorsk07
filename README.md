@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,My+name+is+João+Vitor;I'm+18+years+old;I'm+from+Brazil;I'm+studying+Systems+Development+Technician;Be+Welcome+To+My+Profile!+:%29)](https://git.io/typing-svg)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 <div>
 <a href="https://instagram.com/joaov07__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 <a href="https://wa.me/qr/7HZ7ARV7USP4H1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">  
